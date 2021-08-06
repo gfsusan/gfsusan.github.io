@@ -4,6 +4,7 @@ title: Posts Contents To Be Added In the Future
 description: >
   개발을 진행하면서 맞딱드렸던 문제들, 까먹기 전에 주제라도 기록하자.
 categories: [blog]
+tags: [Navi, iOS, Swift]
 related_posts:
   none
 ---
