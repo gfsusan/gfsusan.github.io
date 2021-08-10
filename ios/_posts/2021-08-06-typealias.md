@@ -5,6 +5,7 @@ description: >
     Swift의 typealias에 대해서 알아 본다.
 tags: [Swift]
 menu: true
+comments: true
 related_posts:
   none
 ---
