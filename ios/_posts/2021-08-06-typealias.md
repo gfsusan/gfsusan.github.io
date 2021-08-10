@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Swift typeAlias
+title: Swift - typeAlias
 description: >
     Swift의 typealias에 대해서 알아 본다.
-categories: [blog]
-tags: [Swift, iOS]
+tags: [Swift]
+menu: true
 related_posts:
   none
 ---
