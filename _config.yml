@@ -50,8 +50,8 @@ author:
 menu:
   - title:             Blog
     url:               /blog/
-  - title:             iOS
-    url:               /ios/
+  - title:             Swift
+    url:               /swift/
   - title:             Example
     url:               /example/
   - title:             Documentation
