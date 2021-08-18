@@ -3,7 +3,7 @@ layout: post
 title: Swift 기초 | 실수와 불 타입
 description: >
    실수(Integers)와 불(Bool) 타입에 대해서 알아보자.
-tags: [Swift]
+tags: [swift]
 comments: true
 related_posts:
   - swift/_posts/2021-08-10-100daysofswift-day1-3.md

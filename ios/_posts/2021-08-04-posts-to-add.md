@@ -3,7 +3,7 @@ layout: post
 title: TableHeaderView가 제대로 나타나지 않는 현상
 description: >
   TableView에 Header를 지정했더니, Navigation Bar의 Title이 작게 나오고 스크롤 이벤트가 발생하기 전까지 숨겨져 있는 현상 해결 방법
-categories: [blog]
+categories: [ios]
 tags: [Navi, iOS, Swift]
 related_posts:
   none

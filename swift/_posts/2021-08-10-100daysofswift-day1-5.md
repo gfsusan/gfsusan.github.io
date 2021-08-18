@@ -3,7 +3,7 @@ layout: post
 title: Swift 기초 | 문자열 삽입 (String Interpolation)
 description: >
    문자열 삽입(String Interpolation)에 대해서 알아보자.
-tags: [Swift]
+tags: [swift]
 comments: true
 related_posts:
   - swift/_posts/2021-08-10-100daysofswift-day1-4.md

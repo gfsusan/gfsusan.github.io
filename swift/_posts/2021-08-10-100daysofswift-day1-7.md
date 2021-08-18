@@ -3,7 +3,7 @@ layout: post
 title: Swift 기초 | 타입 지정 (Type Annotation)
 description: >
    타입 지정(Type Annotations)에 대해서 알아보자.
-tags: [Swift]
+tags: [swift]
 comments: true
 related_posts:
   - swift/_posts/2021-08-10-100daysofswift-day1-6.md

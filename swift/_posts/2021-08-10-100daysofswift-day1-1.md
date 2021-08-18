@@ -3,7 +3,7 @@ layout: post
 title: Swift 기초 | 변수
 description: >
     변수에 대해서 알아보자.
-tags: [Swift, iOS]
+tags: [swift, ios]
 comments: true
 related_posts:
   - swift/_posts/2021-08-10-100daysofswift-day1-2.md

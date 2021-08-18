@@ -3,8 +3,8 @@ layout: post
 title: 암송어플 -
 description: >
   Navi를 개발하면서 생긴 고민거리 기록
-categories: [blog]
-tags: [Navi, Swift, iOS]
+categories: [ios]
+tags: [navi, swift, ios]
 related_posts:
   none
 ---

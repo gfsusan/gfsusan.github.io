@@ -3,7 +3,7 @@ layout: post
 title: Swift 기초 | 정수와 문자열 타입
 description: >
    정수와 문자열에 대해서 알아보자.
-tags: [Swift]
+tags: [swift]
 comments: true
 related_posts:
   - swift/_posts/2021-08-10-100daysofswift-day1-1.md
