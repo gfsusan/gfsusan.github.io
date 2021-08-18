@@ -6,8 +6,8 @@ description: >
 tags: [Swift]
 comments: true
 related_posts:
-  - ios/_posts/2021-08-10-100daysofswift-day1-4.md
-  - ios/_posts/2021-08-10-100daysofswift-day1-6.md
+  - swift/_posts/2021-08-10-100daysofswift-day1-4.md
+  - swift/_posts/2021-08-10-100daysofswift-day1-6.md
 ---
 
 현재까지 코드에 문자열 값을 직접적으로 입력하는 것을 보았다. 그러나 Swift는 추가적으로 문자열에 변수를 삽입함으로써 문자열을 더 유용하게 사용할 수 있는 **문자열 삽입(String Interpolation)** 기능을 제공한다.

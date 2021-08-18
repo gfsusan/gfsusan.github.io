@@ -6,8 +6,8 @@ description: >
 tags: [Swift]
 comments: true
 related_posts:
-  - ios/_posts/2021-08-10-100daysofswift-day1-2.md
-  - ios/_posts/2021-08-10-100daysofswift-day1-4.md
+  - swift/_posts/2021-08-10-100daysofswift-day1-2.md
+  - swift/_posts/2021-08-10-100daysofswift-day1-4.md
 ---
 
 기본 Swift 문자열은 따옴표("")를 사용하지만, 그 중간에 줄바꿈을 사용할 수 없다.

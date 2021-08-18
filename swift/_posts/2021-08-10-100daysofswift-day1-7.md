@@ -6,8 +6,7 @@ description: >
 tags: [Swift]
 comments: true
 related_posts:
-  - ios/_posts/2021-08-10-100daysofswift-day1-6.md
-  - ios/_posts/2021-08-10-100daysofswift-day1-8.md
+  - swift/_posts/2021-08-10-100daysofswift-day1-6.md
 ---
 
 Swift는 변수나 실수가 생성될 때에 어떤 값이 지정되었는지를 보고 어떤 데이터 타입으로 지정할 지 결정한다. 다음과 같이 코드를 작성하면 Swift는 해당 상수가 문자열을 저장한다고 본다.

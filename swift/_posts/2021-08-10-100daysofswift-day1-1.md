@@ -6,7 +6,7 @@ description: >
 tags: [Swift, iOS]
 comments: true
 related_posts:
-  - ios/_posts/2021-08-10-100daysofswift-day1-2.md
+  - swift/_posts/2021-08-10-100daysofswift-day1-2.md
 ---
 
 

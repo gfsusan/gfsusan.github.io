@@ -6,8 +6,8 @@ description: >
 tags: [Swift]
 comments: true
 related_posts:
-  - ios/_posts/2021-08-10-100daysofswift-day1-1.md
-  - ios/_posts/2021-08-10-100daysofswift-day1-3.md
+  - swift/_posts/2021-08-10-100daysofswift-day1-1.md
+  - swift/_posts/2021-08-10-100daysofswift-day1-3.md
 ---
 
 Swift는 type-safe 언어이다. 즉, 모든 변수가 하나의 명시된 타입이 지정되어야 한다는 의미이다. Xcode가 생성해준 `str` 변수는 "Hello, playround"라는 철자의 문자열을 저장하기 때문에 Swift는 이 변수에 `String`이라는 타입을 지정한다.

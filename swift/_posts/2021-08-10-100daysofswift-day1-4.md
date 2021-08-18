@@ -6,8 +6,8 @@ description: >
 tags: [Swift]
 comments: true
 related_posts:
-  - ios/_posts/2021-08-10-100daysofswift-day1-3.md
-  - ios/_posts/2021-08-10-100daysofswift-day1-5.md
+  - swift/_posts/2021-08-10-100daysofswift-day1-3.md
+  - swift/_posts/2021-08-10-100daysofswift-day1-5.md
 ---
 
 Swift에서 사용되는 두 개의 데이터타입은 바로 실수(Double)와 불리언(Bool) 타입니다.

@@ -6,8 +6,8 @@ description: >
 tags: [Swift]
 comments: true
 related_posts:
-  - ios/_posts/2021-08-10-100daysofswift-day1-5.md
-  - ios/_posts/2021-08-10-100daysofswift-day1-7.md
+  - swift/_posts/2021-08-10-100daysofswift-day1-5.md
+  - swift/_posts/2021-08-10-100daysofswift-day1-7.md
 ---
 
 정수는 언제든지 값이 변할 수 있기 때문에 이름이 있고 이름이 해당 이름이 계속 사용되기 때문에 유용하다고 했다. 그러나 많은 경우 값을 지정하고 절대 바꾸지 않을 경우가 있다. 이럴 때 우리는 `var` 대신에 `let` 키워드를 사용할 수 있다.
